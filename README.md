@@ -1,218 +1,166 @@
-# 👋 Hey, I'm Atif
+# Muhammad Atif
 
-### 🚀 Learner • Builder • Cybersecurity Enthusiast
+### Cybersecurity Enthusiast | Self-Directed Learner | Future Security Practitioner
 
-Welcome to my little corner of the internet.
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Rawalpindi%2C%20Pakistan-0A66C2?style=for-the-badge&logo=googlemaps" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Networking-00C7B7?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Current-Student%20%26%20Learner-FF8C00?style=for-the-badge" alt="Current" />
+</p>
 
-I'm **Atif**, a curious learner who enjoys exploring technology, cybersecurity, programming, and the systems that power the modern digital world. I believe that learning never really stops—and right now, I'm focused on building skills, experimenting with ideas, and turning knowledge into real projects.
+I am Muhammad Atif, a self-driven cybersecurity learner from Rawalpindi, Pakistan, currently building my foundation in cybersecurity, networking, Linux, Python, and information security principles. My goal is to combine academic learning, independent study, and practical exploration to grow toward a career in cybersecurity and digital defense.
 
-> **"The goal isn't to know everything. The goal is to never stop learning."**
-
----
-
-## 🧠 About Me
-
-I'm passionate about understanding **how technology works, how systems break, and how they can be protected**.
-
-My journey is still evolving, but I'm actively exploring:
-
-* 🛡️ **Cybersecurity & Ethical Security Research**
-* 💻 **Programming & Software Development**
-* 🌐 **Web Technologies**
-* 🔎 **Reconnaissance & Security Analysis**
-* 🐍 **Python Development**
-* 🧠 **Critical Thinking & Problem Solving**
-* 🚀 **Building Practical Projects**
-
-I enjoy learning by actually **building things**. Instead of only consuming information, I like experimenting with code, testing ideas, breaking down problems, and gradually improving my projects.
+> “The goal is not to know everything. The goal is to build the habit of learning, understanding, and improving consistently.”
 
 ---
 
-# 🛡️ Cybersecurity Journey
+## About Me
 
-Cybersecurity is one of my biggest areas of interest.
+I am passionate about understanding how systems work, how networks communicate, how vulnerabilities emerge, and how security controls help protect people, infrastructure, and information. My learning journey is rooted in curiosity, disciplined study, and a practical mindset.
 
-I'm currently learning about how digital systems work, how vulnerabilities can appear, and how organizations can better understand and improve their security posture.
+I am especially interested in:
 
-### Things I'm Exploring
+- Cybersecurity fundamentals
+- Networking and network security
+- Linux and command-line workflows
+- Python automation and scripting
+- Security tools and reconnaissance in authorized environments
+- Troubleshooting and systems understanding
+- Research, analysis, and technical documentation
 
-```text
-🔎 OSINT & Reconnaissance
-🌐 DNS & Subdomain Analysis
-🔐 SSL/TLS Security
-🚪 Network & Port Analysis
-🛡️ HTTP Security Headers
-📊 Security Risk Assessment
-🐍 Python Automation
-🔍 Security Research
-```
-
-> ⚠️ **Everything I learn and build is intended for educational, defensive, and authorized security purposes only.**
+My approach is not limited to consuming theory. I value understanding the logic behind the tools and systems I study, and I am motivated by the idea of transforming knowledge into practical, useful skills.
 
 ---
 
-# 🚀 What I'm Building
+## Current Learning Focus
 
-### 🔍 Deep Recon for SMBs
+I am actively strengthening my foundation in the following areas:
 
-I'm currently working on projects focused on helping organizations better understand their publicly exposed digital footprint.
+- Python programming
+- Linux and Bash
+- Networking fundamentals
+- Nmap and network discovery concepts
+- Firewall and network security basics
+- Operating systems and hardware fundamentals
+- Cybersecurity principles and defensive thinking
+- Research and information analysis
+- Technical troubleshooting
 
-The goal is to automate security reconnaissance and present useful information in a way that is easier to understand.
-
-Some areas my projects explore include:
-
-* 🌐 DNS Records & Infrastructure
-* 🔎 Subdomain Discovery
-* 🔐 SSL/TLS Certificate Analysis
-* 🚪 Open Port Identification
-* 🛡️ HTTP Security Header Analysis
-* 📊 Security Risk Information
-
-**The philosophy is simple:**
-
-> Understand the attack surface before someone else does.
+These areas form a strong base for long-term growth in network security, defensive security, and security automation.
 
 ---
 
-# 💻 Technologies & Tools
+## Education
 
-### Languages
+### Higher Secondary School Certificate (HSSC)
+Punjab Group of Colleges, Islamabad  
+Expected 2027
 
-```text
-Python 🐍
-HTML 🌐
-CSS 🎨
-JavaScript ⚡
-```
+### Secondary School Certificate (SSC — Computer Science)
+Radiant Secondary School, Rawalpindi  
+FBISE  
+Percentage: 86%
 
-### Areas & Technologies
-
-```text
-Cybersecurity 🛡️
-Networking 🌐
-Web Development 💻
-Automation ⚙️
-OSINT 🔎
-Git & GitHub 🐙
-Linux 🐧
-```
+I am combining formal education with independent learning to build a strong technical foundation for the future.
 
 ---
 
-# 🧠 My Learning Philosophy
+## Certifications & Recognitions
 
-I don't believe learning should stop at watching tutorials.
+- Fortinet NSE 2 — Network Security Associate
+- Introduction to Cybersecurity — Cisco Networking Academy
+- Distinguished Scholar Award — International Research Olympiad
+- Excellent Essay Writing Certificate — USA SDG Olympiad
 
-My approach is:
-
-```text
-Learn 📚
-   ↓
-Understand 🧠
-   ↓
-Experiment 🧪
-   ↓
-Build 💻
-   ↓
-Fail 😭
-   ↓
-Fix 🔧
-   ↓
-Repeat 🔁
-```
-
-Every project teaches something.
-
-Every mistake teaches something.
-
-And sometimes...
-
-```text
-The bug teaches more than the tutorial. 💀
-```
+These achievements reflect both my academic curiosity and my commitment to continuous improvement in technical and intellectual growth.
 
 ---
 
-# 🎯 Current Focus
+## Skills & Technical Interests
 
-Right now I'm focused on improving my skills in:
+### Core Technical Areas
 
-* 🛡️ Cybersecurity
-* 🐍 Python Programming
-* 🌐 Networking & Web Technologies
-* 🔍 Security Reconnaissance
-* 🧠 Problem Solving
-* 🚀 Building Real Projects
+- Python
+- Linux
+- Bash/Shell Scripting
+- Networking
+- Network Security
+- Cybersecurity Fundamentals
+- Firewall Concepts
+- Troubleshooting
+- Research & Analysis
+- Git & GitHub
 
-I'm still learning, but that's the exciting part.
+### Practical Skill Development
 
----
-
-# 🌱 Beyond Technology
-
-Technology isn't my only area of interest.
-
-I'm also interested in:
-
-* 🧠 Psychology & Human Behavior
-* 📚 Learning & Personal Development
-* 💪 Fitness & Building Strength
-* 🌍 History & World Knowledge
-* 🗣️ Communication & Social Skills
-* 🧠 Critical Thinking
-
-I believe becoming better isn't just about becoming better at **one thing**.
-
-It's about continuously improving yourself across different areas of life.
+I am learning to move beyond theory by applying knowledge in real, evidence-based ways. This includes understanding how systems behave, how to investigate problems, how to analyze technical documentation, and how to build small but meaningful tools and scripts.
 
 ---
 
-# 🤝 Connect With Me
+## Learning Philosophy
 
-I'm always open to connecting with people who enjoy learning, building, and discussing interesting ideas.
+My learning philosophy is built around a structured and practical approach:
 
-### 📸 Instagram
+1. Learn the fundamentals thoroughly
+2. Understand the underlying concept, not just the command
+3. Practice through experimentation and review
+4. Build projects and solve real problems
+5. Improve communication and technical reasoning
+6. Keep learning with patience and consistency
 
-[YOUR INSTAGRAM LINK HERE]
-
-### 🐙 GitHub
-
-[YOUR GITHUB PROFILE LINK HERE]
-
-### 📱 Contact
-
-**[YOUR CONTACT NUMBER HERE]**
+I believe technical growth is not about memorizing content—it is about understanding systems, developing reasoning, and continuously building competence through action.
 
 ---
 
-# 🌐 Find Me Online
+## Professional Direction
 
-```text
-Instagram → [YOUR INSTAGRAM LINK]
-GitHub    → [YOUR GITHUB LINK]
-Contact   → [YOUR CONTACT NUMBER]
-```
+My current career direction is toward becoming a capable and well-rounded cybersecurity professional. I am particularly interested in:
 
----
+- Network security
+- Defensive security
+- Security automation and scripting
+- Authorized reconnaissance and security testing in controlled environments
+- Packet analysis and network traffic understanding
+- Security monitoring and risk awareness
 
-## ⚡ A Small Reminder
-
-> **You don't need to be an expert to start.**
->
-> **You just need to start to eventually become better.**
-
-I'm still learning. Still experimenting. Still building.
-
-And this is only the beginning. 🚀
+These are long-term development areas I am working toward with discipline and curiosity.
 
 ---
 
-<div align="center">
+## Values That Guide Me
 
-### Thanks for visiting! 👋
+- Continuous self-improvement
+- Clear thinking and critical analysis
+- Responsible and ethical learning
+- Writing and communicating ideas clearly
+- Building useful skills through practical effort
+- Understanding technology deeply instead of using it blindly
 
-**Feel free to explore my projects, follow my journey, or connect with me.**
+---
 
-🚀 **Learn. Build. Break. Understand. Improve. Repeat.**
+## GitHub Profile
 
-</div>
+<p align="center">
+  <a href="https://github.com/muhammad-atif-161">
+    <img src="https://img.shields.io/badge/GitHub-muhammad--atif--161-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+I use GitHub as part of my development and learning process to document my work, practice coding, improve my skills, and build projects that reflect my growth.
+
+---
+
+## Connect
+
+I am always open to connecting with others who are passionate about technology, cybersecurity, learning, and problem-solving.
+
+- GitHub: https://github.com/muhammad-atif-161
+- Location: Rawalpindi, Pakistan
+
+---
+
+## Closing Statement
+
+I am still in the early stages of my journey, but I am committed to growing with purpose. My focus is not just to learn technology, but to develop the mindset, discipline, and practical capability required to contribute meaningfully in the world of cybersecurity and digital security.
+
+Thank you for visiting my profile. I look forward to learning, building, and improving every day.
